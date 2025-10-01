@@ -1,6 +1,6 @@
 ## Hi 👋! I'm Djomou Tiayon Bernice Danielle
 
-Data Analyst | Turning Complex Data into Clear Insights | Increasing Productivity & Saving Time | EXCEL | SQL | POWER BI
+Data Analyst | Turning Complex Data into Clear Insights | Boosting Productivity & Saving Time | EXCEL | SQL | POWER BI
 
 ###
 
