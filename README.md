@@ -1,5 +1,6 @@
 ## Djomou Tiayon Bernice Danielle
 
+Data Analyst | Turning Complex Data into Clear Insights | Increasing Productivity & Saving Time | EXCEL | SQL | POWER BI
 <!--
 **dj-tiayon/dj-tiayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
