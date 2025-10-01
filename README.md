@@ -56,7 +56,7 @@ I’m excited to work with startups and businesses that value data as a driver f
     
 * **Data Visualization**:
   
-  *Power BI
+  * Power BI
 
 ## 📫 Contact Info:
 
