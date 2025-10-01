@@ -1,4 +1,4 @@
-## Djomou Tiayon Bernice Danielle
+## Hi 👋! I'm Djomou Tiayon Bernice Danielle
 
 Data Analyst | Turning Complex Data into Clear Insights | Increasing Productivity & Saving Time | EXCEL | SQL | POWER BI
 
@@ -24,10 +24,7 @@ Data Analyst | Turning Complex Data into Clear Insights | Increasing Productivit
 ###
 
 
-
-
-
-## About Me 👱‍♀️
+## About Me 👱‍♀️:
 
 I’m a growing data analyst passionate about helping businesses achieve smarter growth through confident, data-driven decisions.
 
@@ -39,14 +36,22 @@ My background in customer service has shaped me into a communicator who explains
 
 I’m excited to work with startups and businesses that value data as a driver for growth, rather than relying solely on gut feeling. I’m also committed to continuous learning and growth as a professional.
 
-## Skills 💡
+## 💡Skills :
 
-* 
+* **Data Manipulation & Analysis**:
+  * Advanced Excel (Pivot Tables, VLOOKUP, IF formulas)
+  * Google Sheets
+* **Statistical Analysis**:
+  * Descriptive Statistics
+  * Inferential Statistics
+  * Hypothesis Testing
+* **Data Querying:
+  * Ms SQL Seerver
+  * MySQL
+* **Data Visualization**:
+  *Power BI
 
-## Tools ⚒️
-
-
-## Contact Info:
+## 📫 Contact Info:
 
 *  🔗 [LinkedIn](www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242)
 *  📧 [Email](djomoubernice@gmail.com)
