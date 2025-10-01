@@ -2,7 +2,7 @@
 
 Data Analyst | Turning Complex Data into Clear Insights | Increasing Productivity & Saving Time | EXCEL | SQL | POWER BI
 
-[![LinkedIn]()](www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242)
+[![LinkedIn](https://github.com/dj-tiayon/dj-tiayon/blob/main/linkedin_icon.png)](www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242)
 
 ## About Me 👱‍♀️
 
