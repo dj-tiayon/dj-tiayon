@@ -2,7 +2,7 @@
 
 Data Analyst | Turning Complex Data into Clear Insights | Increasing Productivity & Saving Time | EXCEL | SQL | POWER BI
 
-[![LinkedIn](https://www.vecteezy.com/vector-art/18910721-linkedin-logo-vector-linkedin-symbol-linkedin-icon-free-vector)](www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242)
+[![LinkedIn]()](www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242)
 
 ## About Me 👱‍♀️
 
