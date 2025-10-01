@@ -1,8 +1,10 @@
 ## Djomou Tiayon Bernice Danielle
 
 Data Analyst | Turning Complex Data into Clear Insights | Increasing Productivity & Saving Time | EXCEL | SQL | POWER BI
+[![LinkedIn](https://www.vecteezy.com/vector-art/18910721-linkedin-logo-vector-linkedin-symbol-linkedin-icon-free-vector)](www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242)
+_________________
 
-## About Me 
+## About Me 👱‍♀️
 
 I’m a growing data analyst passionate about helping businesses achieve smarter growth through confident, data-driven decisions.
 
@@ -12,10 +14,19 @@ I’ve developed skills in Excel, Google Sheets, SQL, and Python through the Afr
 
 My background in customer service has shaped me into a communicator who explains insights in simple, relatable ways for stakeholders. I believe data isn’t just about numbers, it’s about people, decisions, and creating meaningful impact.
 
-I’m excited to work with startups and businesses that value data as a driver for growth, rather than relying solely on gut feeling. I’m also open to volunteer opportunities and internships that will help me continue learning, gain hands-on experience, and grow as a professional.
+I’m excited to work with startups and businesses that value data as a driver for growth, rather than relying solely on gut feeling. I’m also committed to continuous learning and growth as a professional.
 
-Let’s connect if you share the same interest for using data to make meaningful change!
+## Skills 💡
 
+* 
+
+## Tools ⚒️
+
+
+## Contact Info:
+
+*  🔗 [LinkedIn](www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242)
+*  📧 [Email](djomoubernice@gmail.com)
 
 
 
