@@ -5,7 +5,7 @@ Data Analyst | Turning Complex Data into Clear Insights | Increasing Productivit
 ###
 
 <div align="left"> 
-  <a href="www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242" target="_blank">
+  <a href="https://www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=403d39&logoColor=white&labelColor=0077B5&style=flat" height="50" alt="linkedin logo"/>
 
   <a href="mailto:djomoubernice@gmail.com" target="_blank">
