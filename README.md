@@ -39,16 +39,23 @@ I’m excited to work with startups and businesses that value data as a driver f
 ## 💡Skills :
 
 * **Data Manipulation & Analysis**:
+  
   * Advanced Excel (Pivot Tables, VLOOKUP, IF formulas)
   * Google Sheets
+    
 * **Statistical Analysis**:
+  
   * Descriptive Statistics
   * Inferential Statistics
   * Hypothesis Testing
-* **Data Querying:
+    
+* **Data Querying**:
+  
   * Ms SQL Seerver
   * MySQL
+    
 * **Data Visualization**:
+  
   *Power BI
 
 ## 📫 Contact Info:
