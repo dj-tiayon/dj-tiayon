@@ -2,7 +2,26 @@
 
 Data Analyst | Turning Complex Data into Clear Insights | Increasing Productivity & Saving Time | EXCEL | SQL | POWER BI
 
-[![LinkedIn](https://github.com/dj-tiayon/dj-tiayon/blob/main/linkedin_icon.png)](www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242)
+###
+
+<div align="left"> 
+  <a href="www.linkedin.com/in/djomou-tiayon-bernice-danielle-b3550a242" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=403d39&logoColor=white&labelColor=0077B5&style=flat" height="40" alt="linkedin logo"/>
+  </a>
+
+  </a>
+  <a href="mailto:djomoubernice@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=403d39&logoColor=white&labelColor=D14836&style=flat" height="40" alt="gmail logo"  />
+  </a>
+  
+</div>
+
+###
+
+
+
+
+
 
 ## About Me 👱‍♀️
 
